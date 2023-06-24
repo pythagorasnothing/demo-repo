@@ -9,3 +9,11 @@ The git add command adds a change in the working directory to the staging area. 
 The git add command adds new or changed files in your working directory to the Git staging area. git add is an important command -
 
 The git add command adds new or changed files in your working directory to the Git staging area. git add is an important command -
+
+
+Harsh shah@DIGIBOXX MINGW64 ~/Pictures/git practical/demo 1 (master)
+$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
