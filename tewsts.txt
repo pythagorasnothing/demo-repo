@@ -7,3 +7,5 @@ The Goodwin Fire was a wildfire that burned 28,516 acres (115.40 km2) in the U.S
 The git add command adds a change in the working directory to the staging area. It tells Git that you want to include updates to a particular file in the next commit. However, git add doesn't really affect the repository in any significant way—changes are not actually recorded until you run git commit .
 
 The git add command adds new or changed files in your working directory to the Git staging area. git add is an important command -
+
+The git add command adds new or changed files in your working directory to the Git staging area. git add is an important command -
